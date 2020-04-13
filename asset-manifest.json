@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dataguru/static/css/main.41e605f4.chunk.css",
+    "main.js": "/dataguru/static/js/main.790322ef.chunk.js",
+    "main.js.map": "/dataguru/static/js/main.790322ef.chunk.js.map",
+    "runtime-main.js": "/dataguru/static/js/runtime-main.477511ec.js",
+    "runtime-main.js.map": "/dataguru/static/js/runtime-main.477511ec.js.map",
+    "static/js/2.70b4efff.chunk.js": "/dataguru/static/js/2.70b4efff.chunk.js",
+    "static/js/2.70b4efff.chunk.js.map": "/dataguru/static/js/2.70b4efff.chunk.js.map",
+    "index.html": "/dataguru/index.html",
+    "precache-manifest.0df0f5455722e33dc2c8b156cc99e11a.js": "/dataguru/precache-manifest.0df0f5455722e33dc2c8b156cc99e11a.js",
+    "service-worker.js": "/dataguru/service-worker.js",
+    "static/css/main.41e605f4.chunk.css.map": "/dataguru/static/css/main.41e605f4.chunk.css.map",
+    "static/js/2.70b4efff.chunk.js.LICENSE.txt": "/dataguru/static/js/2.70b4efff.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.477511ec.js",
+    "static/js/2.70b4efff.chunk.js",
+    "static/css/main.41e605f4.chunk.css",
+    "static/js/main.790322ef.chunk.js"
+  ]
+}
