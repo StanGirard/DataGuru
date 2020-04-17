@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/DataGuru/static/css/main.41e605f4.chunk.css",
-    "main.js": "/DataGuru/static/js/main.a58f271e.chunk.js",
-    "main.js.map": "/DataGuru/static/js/main.a58f271e.chunk.js.map",
-    "runtime-main.js": "/DataGuru/static/js/runtime-main.daefdef3.js",
-    "runtime-main.js.map": "/DataGuru/static/js/runtime-main.daefdef3.js.map",
-    "static/js/2.5aa7edd2.chunk.js": "/DataGuru/static/js/2.5aa7edd2.chunk.js",
-    "static/js/2.5aa7edd2.chunk.js.map": "/DataGuru/static/js/2.5aa7edd2.chunk.js.map",
+    "main.js": "/DataGuru/static/js/main.4309f88a.chunk.js",
+    "main.js.map": "/DataGuru/static/js/main.4309f88a.chunk.js.map",
+    "runtime-main.js": "/DataGuru/static/js/runtime-main.7df85a07.js",
+    "runtime-main.js.map": "/DataGuru/static/js/runtime-main.7df85a07.js.map",
+    "static/js/2.f7bde36f.chunk.js": "/DataGuru/static/js/2.f7bde36f.chunk.js",
+    "static/js/2.f7bde36f.chunk.js.map": "/DataGuru/static/js/2.f7bde36f.chunk.js.map",
     "index.html": "/DataGuru/index.html",
-    "precache-manifest.019b74995e7608afff30679f38c22b2b.js": "/DataGuru/precache-manifest.019b74995e7608afff30679f38c22b2b.js",
+    "precache-manifest.59db868d95a23b0dd485ca5c62aaf87a.js": "/DataGuru/precache-manifest.59db868d95a23b0dd485ca5c62aaf87a.js",
     "service-worker.js": "/DataGuru/service-worker.js",
     "static/css/main.41e605f4.chunk.css.map": "/DataGuru/static/css/main.41e605f4.chunk.css.map",
-    "static/js/2.5aa7edd2.chunk.js.LICENSE.txt": "/DataGuru/static/js/2.5aa7edd2.chunk.js.LICENSE.txt"
+    "static/js/2.f7bde36f.chunk.js.LICENSE.txt": "/DataGuru/static/js/2.f7bde36f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.daefdef3.js",
-    "static/js/2.5aa7edd2.chunk.js",
+    "static/js/runtime-main.7df85a07.js",
+    "static/js/2.f7bde36f.chunk.js",
     "static/css/main.41e605f4.chunk.css",
-    "static/js/main.a58f271e.chunk.js"
+    "static/js/main.4309f88a.chunk.js"
   ]
 }
